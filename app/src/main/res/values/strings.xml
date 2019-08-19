@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Forwarding SMS</string>
+    <string name="task_name">Task name</string>
+    <string name="title">Sender</string>
+    <string name="title1">Recipient</string>
+    <string name="send_name">Choose a sender</string>
+    <string name="recieve_name">Choose a recipient</string>
+    <string name="context_button_add">Add new record</string>
+    <string name="confirm">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_add">Add</string>
+    <string name="task_saved">Task has saved!</string>
+    <string name="task_deleted">Task has deleted!</string>
+    <string name="task_udated">Task has updated!</string>
+    <string name="task_active">Active</string>
+</resources>
