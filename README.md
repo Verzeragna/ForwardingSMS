@@ -1,5 +1,5 @@
 # ForwardingSMS
-ForwardingSMS it's app for forwarding incoming SMS. You create simple task in app and that task will work when the necessary conditions will be met. Every task contains name, sender number or name, reciever number and checkbox that turn yuor task on or off.
+ForwardingSMS it's app for forwarding incoming SMS. You create simple task in app and that task will work when the necessary conditions will be met. Every task contains name, sender number or name, reciever number and checkbox that turn your task on or off.
 
 File name           | File content 
 --------------------|--------------------------------------------------------------------------------------------------------
